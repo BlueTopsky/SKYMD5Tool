@@ -13,7 +13,7 @@
 /**
  *  对data进行MD5加密, 32位 大写
  *
- *  @param str 传入要加密的data
+ *  @param input 传入要加密的data
  *
  *  @return 返回加密后的字符串
  */
