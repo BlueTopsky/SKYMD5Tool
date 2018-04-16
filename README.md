@@ -1,0 +1,2 @@
+# SKYMD5Tool
+一行代码搞定NSString和NSData的md5加密
